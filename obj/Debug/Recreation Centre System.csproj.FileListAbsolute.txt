@@ -1,0 +1,13 @@
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation Centre System.csproj.AssemblyReference.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.Admin.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\RecreationCentreSystem.BillingTicket.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.Report.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.TicketPriceDetails.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.Visitor_Details.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.WeeklyChart.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation Centre System.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation Centre System.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.exe
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\TicketSystem.pdb

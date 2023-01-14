@@ -1,0 +1,54 @@
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\bin\Debug\Recreation_Centre_System.exe.config
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\bin\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\bin\Debug\Recreation_Centre_System.pdb
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.Admin.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.BillingTicket.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.Properties.Resources.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.Report.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.TicketPriceDetails.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.Visitor_Details.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.WeeklyChart.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.csproj.GenerateResource.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.pdb
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.Staff.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.csproj.AssemblyReference.cache
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.SetTicketPrice.resources
+C:\Users\darsh\Downloads\ad practise\final\TicketSystem_1\TicketSystem\obj\Debug\Recreation_Centre_System.LoginForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.AssemblyReference.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.LoginForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Properties.Resources.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.GenerateResource.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.pdb
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\bin\Debug\Recreation_Centre_System.exe.config
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\bin\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\bin\Debug\Recreation_Centre_System.pdb
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.AdminForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.TicketsBillingsForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.GenerateReport.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.TicketsPriceSet.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Staffpanel.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Details_of_TicketPrice.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.VisitorDetails.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\final\TicketSystem_1\Recreation_Center_System\obj\Debug\Recreation_Centre_System.GenerateWeeklyChart.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\bin\Debug\Recreation_Centre_System.exe.config
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\bin\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\bin\Debug\Recreation_Centre_System.pdb
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.AssemblyReference.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.AdminForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.TicketsBillingsForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.LoginForm.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Properties.Resources.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.GenerateReport.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.TicketsPriceSet.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Staffpanel.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.Details_of_TicketPrice.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.VisitorDetails.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.GenerateWeeklyChart.resources
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.GenerateResource.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.exe
+C:\Users\darsh\OneDrive\Desktop\AD Coursework\19031629 Darshan Shrestha\Development\Recreation_Center_System\obj\Debug\Recreation_Centre_System.pdb
